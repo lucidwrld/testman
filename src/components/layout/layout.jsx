@@ -7,7 +7,7 @@ import Footer from "./Footer";
 export default function  HeaderFooter ({ children}) {
    
   return (
-    <div className="w-full h-full">
+    <div className="w-full relative h-full">
         <Navbar />
          
               {children}
