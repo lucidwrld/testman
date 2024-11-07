@@ -31,7 +31,7 @@ export default function Navbar(){
 
     ]
     return(
-        <div className=" w-full h-[158px] px-5 sticky   z-[10] flex items-center backdrop-filter backdrop-blur bg-opacity-10 bg-black  inset-0 justify-between bg-transparent">
+        <div className=" w-full h-[158px] px-5 sticky   z-[10] flex items-center backdrop-filter backdrop-blur bg-opacity-30 bg-black  inset-0 justify-between ">
             <div className="w-fit flex flex-col items-center h-fit ">
                 <h3 className="text-[30px] text-white leading-[42px] font-semibold">Electronics, Fashion, Home Goods</h3>
                 <p className="text-[16px] text-white leading-[24px] font-semibold">Vibrant Marketplace</p>
